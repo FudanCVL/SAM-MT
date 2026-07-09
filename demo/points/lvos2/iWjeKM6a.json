@@ -1,0 +1,76 @@
+{
+  "video_name": "iWjeKM6a",
+  "num_pts_per_object_requested": 2,
+  "all_object_ids": [
+    1,
+    2
+  ],
+  "first_appear": {
+    "1": {
+      "frame_idx": 0,
+      "frame_file": "00000001.jpg",
+      "mask_file": "00000001.png"
+    },
+    "2": {
+      "frame_idx": 0,
+      "frame_file": "00000001.jpg",
+      "mask_file": "00000001.png"
+    }
+  },
+  "groups": [
+    {
+      "ann_frame_idx": 0,
+      "ann_frame_file": "00000001.jpg",
+      "ann_mask_file": "00000001.png",
+      "object_ids": [
+        1,
+        2
+      ],
+      "points_per_object": [
+        2,
+        2
+      ],
+      "points": {
+        "1": [
+          [
+            643.0,
+            437.0
+          ],
+          [
+            754.0,
+            437.0
+          ]
+        ],
+        "2": [
+          [
+            1213.0,
+            306.0
+          ],
+          [
+            1152.0,
+            306.0
+          ]
+        ]
+      },
+      "all_points": [
+        [
+          643.0,
+          437.0
+        ],
+        [
+          754.0,
+          437.0
+        ],
+        [
+          1213.0,
+          306.0
+        ],
+        [
+          1152.0,
+          306.0
+        ]
+      ]
+    }
+  ],
+  "unmatched_mask_files": []
+}

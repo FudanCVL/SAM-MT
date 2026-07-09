@@ -1,0 +1,30 @@
+{
+  "video_name": "d2vdg5oa",
+  "ann_frame_idx": 0,
+  "original_object_ids": [
+    1
+  ],
+  "num_pts_per_object": 2,
+  "points_per_object": {
+    "1": [
+      [
+        1072.0,
+        710.0
+      ],
+      [
+        1072.0,
+        705.0
+      ]
+    ]
+  },
+  "all_points": [
+    [
+      1072.0,
+      710.0
+    ],
+    [
+      1072.0,
+      705.0
+    ]
+  ]
+}

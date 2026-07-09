@@ -1,0 +1,30 @@
+{
+  "video_name": "70hvirf4",
+  "ann_frame_idx": 0,
+  "original_object_ids": [
+    1
+  ],
+  "num_pts_per_object": 2,
+  "points_per_object": {
+    "1": [
+      [
+        1036.0,
+        536.0
+      ],
+      [
+        1033.0,
+        526.0
+      ]
+    ]
+  },
+  "all_points": [
+    [
+      1036.0,
+      536.0
+    ],
+    [
+      1033.0,
+      526.0
+    ]
+  ]
+}

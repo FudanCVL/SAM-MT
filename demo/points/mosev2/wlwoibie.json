@@ -1,0 +1,30 @@
+{
+  "video_name": "wlwoibie",
+  "ann_frame_idx": 0,
+  "original_object_ids": [
+    1
+  ],
+  "num_pts_per_object": 2,
+  "points_per_object": {
+    "1": [
+      [
+        1149.0,
+        1075.0
+      ],
+      [
+        1059.0,
+        908.0
+      ]
+    ]
+  },
+  "all_points": [
+    [
+      1149.0,
+      1075.0
+    ],
+    [
+      1059.0,
+      908.0
+    ]
+  ]
+}

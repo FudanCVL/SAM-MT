@@ -1,0 +1,15 @@
+torch==2.8.0
+torchvision==0.23.0
+numpy
+tqdm
+hydra-core
+omegaconf
+iopath
+scipy
+matplotlib
+opencv-python-headless
+pillow
+timm
+decord
+huggingface_hub
+gradio

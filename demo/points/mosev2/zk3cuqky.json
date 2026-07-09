@@ -1,0 +1,30 @@
+{
+  "video_name": "zk3cuqky",
+  "ann_frame_idx": 0,
+  "original_object_ids": [
+    1
+  ],
+  "num_pts_per_object": 2,
+  "points_per_object": {
+    "1": [
+      [
+        1681.0,
+        1075.0
+      ],
+      [
+        1915.0,
+        1075.0
+      ]
+    ]
+  },
+  "all_points": [
+    [
+      1681.0,
+      1075.0
+    ],
+    [
+      1915.0,
+      1075.0
+    ]
+  ]
+}

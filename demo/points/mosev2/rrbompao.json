@@ -1,0 +1,30 @@
+{
+  "video_name": "rrbompao",
+  "ann_frame_idx": 0,
+  "original_object_ids": [
+    1
+  ],
+  "num_pts_per_object": 2,
+  "points_per_object": {
+    "1": [
+      [
+        1208.0,
+        649.0
+      ],
+      [
+        1234.0,
+        609.0
+      ]
+    ]
+  },
+  "all_points": [
+    [
+      1208.0,
+      649.0
+    ],
+    [
+      1234.0,
+      609.0
+    ]
+  ]
+}

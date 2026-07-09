@@ -1,0 +1,30 @@
+{
+  "video_name": "isv5kwld",
+  "ann_frame_idx": 0,
+  "original_object_ids": [
+    1
+  ],
+  "num_pts_per_object": 2,
+  "points_per_object": {
+    "1": [
+      [
+        1283.0,
+        37.0
+      ],
+      [
+        763.0,
+        761.0
+      ]
+    ]
+  },
+  "all_points": [
+    [
+      1283.0,
+      37.0
+    ],
+    [
+      763.0,
+      761.0
+    ]
+  ]
+}

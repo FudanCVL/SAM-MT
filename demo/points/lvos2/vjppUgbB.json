@@ -1,0 +1,76 @@
+{
+  "video_name": "vjppUgbB",
+  "num_pts_per_object_requested": 2,
+  "all_object_ids": [
+    1,
+    2
+  ],
+  "first_appear": {
+    "1": {
+      "frame_idx": 0,
+      "frame_file": "00000001.jpg",
+      "mask_file": "00000001.png"
+    },
+    "2": {
+      "frame_idx": 0,
+      "frame_file": "00000001.jpg",
+      "mask_file": "00000001.png"
+    }
+  },
+  "groups": [
+    {
+      "ann_frame_idx": 0,
+      "ann_frame_file": "00000001.jpg",
+      "ann_mask_file": "00000001.png",
+      "object_ids": [
+        1,
+        2
+      ],
+      "points_per_object": [
+        2,
+        2
+      ],
+      "points": {
+        "1": [
+          [
+            516.0,
+            353.0
+          ],
+          [
+            516.0,
+            365.0
+          ]
+        ],
+        "2": [
+          [
+            566.0,
+            344.0
+          ],
+          [
+            612.0,
+            362.0
+          ]
+        ]
+      },
+      "all_points": [
+        [
+          516.0,
+          353.0
+        ],
+        [
+          516.0,
+          365.0
+        ],
+        [
+          566.0,
+          344.0
+        ],
+        [
+          612.0,
+          362.0
+        ]
+      ]
+    }
+  ],
+  "unmatched_mask_files": []
+}

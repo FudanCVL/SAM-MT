@@ -1,0 +1,76 @@
+{
+  "video_name": "KfcCU1ma",
+  "num_pts_per_object_requested": 2,
+  "all_object_ids": [
+    1,
+    2
+  ],
+  "first_appear": {
+    "1": {
+      "frame_idx": 0,
+      "frame_file": "00000001.jpg",
+      "mask_file": "00000001.png"
+    },
+    "2": {
+      "frame_idx": 0,
+      "frame_file": "00000001.jpg",
+      "mask_file": "00000001.png"
+    }
+  },
+  "groups": [
+    {
+      "ann_frame_idx": 0,
+      "ann_frame_file": "00000001.jpg",
+      "ann_mask_file": "00000001.png",
+      "object_ids": [
+        1,
+        2
+      ],
+      "points_per_object": [
+        2,
+        2
+      ],
+      "points": {
+        "1": [
+          [
+            705.0,
+            481.0
+          ],
+          [
+            704.0,
+            481.0
+          ]
+        ],
+        "2": [
+          [
+            570.0,
+            473.0
+          ],
+          [
+            571.0,
+            474.0
+          ]
+        ]
+      },
+      "all_points": [
+        [
+          705.0,
+          481.0
+        ],
+        [
+          704.0,
+          481.0
+        ],
+        [
+          570.0,
+          473.0
+        ],
+        [
+          571.0,
+          474.0
+        ]
+      ]
+    }
+  ],
+  "unmatched_mask_files": []
+}

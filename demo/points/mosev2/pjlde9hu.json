@@ -1,0 +1,30 @@
+{
+  "video_name": "pjlde9hu",
+  "ann_frame_idx": 0,
+  "original_object_ids": [
+    1
+  ],
+  "num_pts_per_object": 2,
+  "points_per_object": {
+    "1": [
+      [
+        241.0,
+        1601.0
+      ],
+      [
+        344.0,
+        1099.0
+      ]
+    ]
+  },
+  "all_points": [
+    [
+      241.0,
+      1601.0
+    ],
+    [
+      344.0,
+      1099.0
+    ]
+  ]
+}

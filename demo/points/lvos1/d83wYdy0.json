@@ -1,0 +1,50 @@
+{
+  "video_name": "d83wYdy0",
+  "num_pts_per_object_requested": 2,
+  "all_object_ids": [
+    1
+  ],
+  "first_appear": {
+    "1": {
+      "frame_idx": 231,
+      "frame_file": "00001156.jpg",
+      "mask_file": "00001156.png"
+    }
+  },
+  "groups": [
+    {
+      "ann_frame_idx": 231,
+      "ann_frame_file": "00001156.jpg",
+      "ann_mask_file": "00001156.png",
+      "object_ids": [
+        1
+      ],
+      "points_per_object": [
+        2
+      ],
+      "points": {
+        "1": [
+          [
+            560.0,
+            714.0
+          ],
+          [
+            551.0,
+            714.0
+          ]
+        ]
+      },
+      "all_points": [
+        [
+          560.0,
+          714.0
+        ],
+        [
+          551.0,
+          714.0
+        ]
+      ]
+    }
+  ],
+  "unmatched_mask_files": []
+}

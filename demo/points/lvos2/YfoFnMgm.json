@@ -1,0 +1,102 @@
+{
+  "video_name": "YfoFnMgm",
+  "num_pts_per_object_requested": 2,
+  "all_object_ids": [
+    1,
+    2,
+    3
+  ],
+  "first_appear": {
+    "1": {
+      "frame_idx": 0,
+      "frame_file": "00000001.jpg",
+      "mask_file": "00000001.png"
+    },
+    "2": {
+      "frame_idx": 0,
+      "frame_file": "00000001.jpg",
+      "mask_file": "00000001.png"
+    },
+    "3": {
+      "frame_idx": 0,
+      "frame_file": "00000001.jpg",
+      "mask_file": "00000001.png"
+    }
+  },
+  "groups": [
+    {
+      "ann_frame_idx": 0,
+      "ann_frame_file": "00000001.jpg",
+      "ann_mask_file": "00000001.png",
+      "object_ids": [
+        1,
+        2,
+        3
+      ],
+      "points_per_object": [
+        2,
+        2,
+        2
+      ],
+      "points": {
+        "1": [
+          [
+            569.0,
+            554.0
+          ],
+          [
+            569.0,
+            714.0
+          ]
+        ],
+        "2": [
+          [
+            362.0,
+            516.0
+          ],
+          [
+            348.0,
+            482.0
+          ]
+        ],
+        "3": [
+          [
+            678.0,
+            605.0
+          ],
+          [
+            669.0,
+            605.0
+          ]
+        ]
+      },
+      "all_points": [
+        [
+          569.0,
+          554.0
+        ],
+        [
+          569.0,
+          714.0
+        ],
+        [
+          362.0,
+          516.0
+        ],
+        [
+          348.0,
+          482.0
+        ],
+        [
+          678.0,
+          605.0
+        ],
+        [
+          669.0,
+          605.0
+        ]
+      ]
+    }
+  ],
+  "unmatched_mask_files": []
+}
