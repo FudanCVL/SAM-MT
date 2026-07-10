@@ -17,7 +17,7 @@ SAM-MT: Real-Time Interactive Multi-Target Video Segmentation
 
 <p align="center">
   <a href="https://henghuiding.com/SAM-MT/"><img src="https://img.shields.io/badge/Project-Page-2563eb?style=flat&logo=github&logoColor=white" alt="Project Page"></a>
-  <a href="https://arxiv.org/abs/TODO"><img src="https://img.shields.io/badge/arXiv-2606.27339-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2607.08688"><img src="https://img.shields.io/badge/arXiv-2607.08688-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv"></a>
   <a href="https://huggingface.co/FudanCVL/SAM-MT"><img src="https://img.shields.io/badge/Models-Hugging%20Face-ffd21e?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face Models"></a>
 </p>
 
